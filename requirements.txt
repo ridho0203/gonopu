@@ -1,3 +1,5 @@
 streamlit
 opencv-python-headless
 natsort
+moviepy
+Pillow
